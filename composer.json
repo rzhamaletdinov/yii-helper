@@ -1,0 +1,21 @@
+{
+    "name": "rzhamaletdinov/yii2-helper",
+    "description": "My Helper Library",
+    "type": "library",
+    "keywords": ["yii2","helper"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rzhamaletdinov",
+            "email": "kraktus@mail.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "library\\helper\\": ""
+        }
+    }
+}
