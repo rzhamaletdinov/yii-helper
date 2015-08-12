@@ -14,8 +14,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": {
-            "library\\helper\\": ""
-        }
+        "files": ["Index.php"]
     }
 }
